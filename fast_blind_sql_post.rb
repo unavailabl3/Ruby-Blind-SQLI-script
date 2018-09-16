@@ -1,4 +1,4 @@
-page_to_sql = 'http://example.com/post.php?id='
+page_to_sql = 'http://example.com/index.php?id='
 wrong_phrase = "INSERT_WRONG_PHRASE"
 right_phrase = "INSERT_RIGHT_PHRASE"
 num_letters = 20
