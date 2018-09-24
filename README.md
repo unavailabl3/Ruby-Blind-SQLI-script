@@ -1,5 +1,5 @@
-# Ruby-Blind-XSS-script
-Automated Blind XSS script on ruby
+# Ruby-Blind-SQLI-script
+Automated Blind SQLI script on ruby
 
 Making Blind SQLI using curl in order to make in faster. Use Linux with curl or download curl.exe for Windows.
 
